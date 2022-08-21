@@ -1,0 +1,26 @@
+p1 {
+    color: red;
+    font-size: 4rem;
+    font-family: monospace;
+}
+
+
+
+h1 {
+    color: black;
+    font-family: fantasy; 
+    font-size: 6rem;
+    margin-left:35%;
+}
+
+
+p2 {
+width: 100%;    
+
+}
+
+img {
+    width: 100%;
+    max-width: 1000px;
+}
+
